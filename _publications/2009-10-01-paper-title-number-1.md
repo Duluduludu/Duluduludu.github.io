@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Save the Day: How the Dissemination of Tourism Crises Can Reinvigorate a Tourism Destination Image after the Seoul Halloween Crowd Crush"
+collection: Suatainability
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
